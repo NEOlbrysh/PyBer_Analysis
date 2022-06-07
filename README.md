@@ -21,11 +21,15 @@ After completing an exploratory analysis for PyBer, a ride-sharing business, a d
 -	The summary data shows a relationship in which fare revenue is higher by city type when there is a larger ratio of drivers to rides.
 -	The observed outcome is not surprising, given that cities are expected to generate more revenue because they have more inhabitants that love closer together than suburban or rural locations.
 
+![2022-06-06 (7)](https://user-images.githubusercontent.com/103701561/172273111-89b5101a-4ce9-412b-90d9-4a1d6e443c36.png)
+
+
+
 The number of drivers in urban areas is about five times that of suburban cities, and 31 times that of rural towns. Similarly, the number of rides per driver favors rural and suburban drivers over urban ones. 
 When we look at the income created, the Average Fare per Ride is 20% lower in urban cities than suburban, and 30% lower in urban cities versus rural.
 Rural drivers clearly outperform Suburban and Urban drivers in terms of Average Fare per Driver. 
 
-
+![2022-06-06 (6)](https://user-images.githubusercontent.com/103701561/172273106-fd44521c-7309-478b-a84a-fec7e6fcdeac.png)
 
 
 
@@ -33,3 +37,11 @@ Rural drivers clearly outperform Suburban and Urban drivers in terms of Average 
 
 ## Conclusion
 The study may gain from having extra data points that span the entire year and provide insights into yearly trends, instead of focusing on just the first third of the year. Rural areas seem to be underserved and customers in those areas face more expensive fares than in Urban or Suburban cities The Rural city type had the least number of total drivers giving way to having the highest average fare per driver even though the ratio of total rides to total drivers is equivalent to the Suburban city type. The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver. Urban cities generate the most revenue for PyBer Customers in Urban cities pay less per ride and therefore drivers earn less per ride The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers.
+![Total Fare by City Type](https://user-images.githubusercontent.com/103701561/172271505-f1fd935d-b016-4562-a681-04844eee0fad.png)
+
+
+
+
+
+
+
