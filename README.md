@@ -37,6 +37,9 @@ Rural drivers clearly outperform Suburban and Urban drivers in terms of Average 
 
 ## Conclusion
 The study may gain from having extra data points that span the entire year and provide insights into yearly trends, instead of focusing on just the first third of the year. Rural areas seem to be underserved and customers in those areas face more expensive fares than in Urban or Suburban cities The Rural city type had the least number of total drivers giving way to having the highest average fare per driver even though the ratio of total rides to total drivers is equivalent to the Suburban city type. The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver. Urban cities generate the most revenue for PyBer Customers in Urban cities pay less per ride and therefore drivers earn less per ride The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers.
+
+
+
 ![Total Fare by City Type](https://user-images.githubusercontent.com/103701561/172271505-f1fd935d-b016-4562-a681-04844eee0fad.png)
 
 
